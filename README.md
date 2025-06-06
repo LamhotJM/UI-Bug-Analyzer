@@ -1,1 +1,2 @@
 # UI-Bug-Analyzer
+UI Bug Analyzer leverages the power of OpenAI’s vision models to automatically detect visual defects, inconsistencies, and accessibility issues in mobile and web interface screenshots. Simply snap or upload a screenshot of your app’s UI, and let the neural network analyze it—no manual inspection required. Whether you’re a developer, QA engineer, or designer, UI Bug Analyzer provides AI-driven feedback to help you catch layout glitches, misaligned elements, contrast problems, missing labels, and other common UI pitfalls before shipping.
